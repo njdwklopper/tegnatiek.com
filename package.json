@@ -1,14 +1,15 @@
 {
-  "name": "tegnatiek",
+  "name": "tegnatiek.com",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Jonathan Natie Klopper",
+  "homepage": "http://tegnatiek.com/",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve",
-    "build": "ng build",
+    "start": "ionic-app-scripts serve",
+    "clean": "ionic-app-scripts clean",
+    "build": "ionic-app-scripts build",
+    "lint": "ionic-app-scripts lint",
     "test": "ng test",
-    "lint": "ng lint",
     "e2e": "ng e2e"
   },
   "private": true,
