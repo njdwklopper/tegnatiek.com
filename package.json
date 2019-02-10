@@ -9,8 +9,7 @@
     "clean": "ionic-app-scripts clean",
     "build": "ionic-app-scripts build",
     "lint": "ionic-app-scripts lint",
-    "prod-build-dev": "ng build --prod --build-optimizer",
-    "prod-build-staging": "ng build --prod --configuration=staging --build-optimizer",
+    "prod-build": "ng build --prod --build-optimizer",
     "test": "ng test",
     "e2e": "ng e2e"
   },
