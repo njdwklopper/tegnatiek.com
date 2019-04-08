@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tegnatiek.veddit.full",
+    "sha256_cert_fingerprints":
+    ["49:06:D1:5A:01:BD:85:72:39:71:F6:8B:EB:D9:F7:F6:4D:DC:97:60:00:E9:7C:B6:1F:5F:5B:18:65:EE:76:D3"]
+  }
+}]
